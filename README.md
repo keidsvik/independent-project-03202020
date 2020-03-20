@@ -1,6 +1,6 @@
 # Independent Project
 
-#### _ A practice website done for Epicodus on 3/20/2020
+#### _A practice website done for Epicodus on 3/20/2020_
 
 #### By _**Kelly Eidsvik**_ 
 
