@@ -2,8 +2,18 @@ h2 {
 font-family: 'Princess Sofia', cursive;
 }
 
+blockquote {
+  font-style: italic;
+  font-size: 12px;
+}
+
 .image {
   background: transparent;
   padding: 3px;
   border: 2px dotted #022454;
+}
+
+.info {
+  font-style: bold;
+
 }
