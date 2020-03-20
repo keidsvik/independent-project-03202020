@@ -12,6 +12,7 @@ blockquote {
   padding: 20px;
   max-width: 250px;
   height: auto;
+  opacity: 1;
 }
 
 .row {
@@ -29,6 +30,14 @@ blockquote {
 
 }
 
-.body {
-  background-color: teal;
+img {
+  opacity: 1;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+body {
+  background-color: #d1e9ea;
 }
