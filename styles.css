@@ -1,10 +1,16 @@
-h2 {
+h1, h2 {
 font-family: 'Princess Sofia', serif;
 }
 
 ul {
   font-family: 'Playfair Display', serif; 
   font-size: 12px;
+}
+
+ol {
+  font-family: 'Playfair Display', serif;
+  font-size: 13px;
+  font-style: italic;
 }
 
 blockquote {
@@ -44,6 +50,22 @@ blockquote {
 
 .intro {
   font-size: 13px;
+}
+
+.class12 {
+  text-align: center;
+  font-size: 60px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Playfair Display", serif;
+  opacity: 0.5;
 }
 
 img {
