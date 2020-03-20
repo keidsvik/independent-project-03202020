@@ -10,7 +10,7 @@ blockquote {
 .d20 {
   float: left;
   padding: 20px;
-  max-width: 250px;
+  max-width: 300px;
   height: auto;
   opacity: 1;
 }
@@ -28,6 +28,10 @@ blockquote {
 .info {
   font-style: bold;
 
+}
+
+.intro {
+  font-size: 13px;
 }
 
 img {
