@@ -1,6 +1,7 @@
 # Independent Project
 
 #### _A practice website done for Epicodus on 3/20/2020_
+[Project can be found here](https://github.com/keidsvik/independent-project-03202020.git)
 
 #### By _**Kelly Eidsvik**_ 
 
